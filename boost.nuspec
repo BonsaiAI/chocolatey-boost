@@ -4,7 +4,7 @@
     <id>boost-msvc-12</id>
     <version>1.58.0</version>
     <title>Boost for MSVC 12.0</title>
-    <authors></authors>
+    <authors>Jeff Garland, Beman Dawes, Carl Daniel, Dave Abrahams, Douglas Gregor, John Maddock</authors>
     <owners>keen</owners>
     <licenseUrl>http://www.boost.org/LICENSE_1_0.txt</licenseUrl>
     <projectUrl>http://sourceforge.net/projects/boost</projectUrl>
