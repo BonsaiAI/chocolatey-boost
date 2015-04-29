@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>boost-msvc-12</id>
+    <version>1.58.0</version>
+    <title>Boost for MSVC 12.0</title>
+    <authors></authors>
+    <owners>keen</owners>
+    <licenseUrl>http://www.boost.org/LICENSE_1_0.txt</licenseUrl>
+    <projectUrl>http://sourceforge.net/projects/boost</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Boost provides free portable peer-reviewed C++ libraries. The emphasis is on portable libraries which work well with the C++ Standard Library.</description>
+    <summary>Boost headers and libs compiled with Visual Studio 2013 for 32bit and 64bit windows.</summary>
+    <releaseNotes>http://www.boost.org/users/history/version_1_58_0.html</releaseNotes>
+    <copyright>Copyright 2014</copyright>
+    <tags>boost c++ msvc msvc-12</tags>
+  </metadata>
+</package>
