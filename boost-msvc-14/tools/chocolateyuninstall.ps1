@@ -3,8 +3,8 @@
 
 $ErrorActionPreference = 'Stop';
 
-$packageName = 'bonsai-boost-1_62'
-$softwareName = 'bonsai-boost-1_62*'
+$packageName = 'boost-msvc-14'
+$softwareName = 'boost-msvc-14*'
 $installerType = 'MSI' 
 
 $silentArgs = '/qn /norestart'

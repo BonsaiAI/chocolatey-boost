@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
   <metadata>
-    <id>bonsai-boost</id>
+    <id>boost-msvc-14</id>
     <version>1.62.0</version>
     <title>Boost for MSVC 14.0</title>
     <authors>Jeff Garland, Beman Dawes, Carl Daniel, Dave Abrahams, Douglas Gregor, John Maddock</authors>
